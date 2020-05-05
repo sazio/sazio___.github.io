@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Simone Azeglio. I am a physicist by training, currently pursuing a M.Sc. in Physics of Complex Systems at the University of Turin and I am a Visiting Research Student at the University of Ottawa. My interesests lies in understanding the **Learning Process**,  I am also the President and the Founder of the Machine Learning Journal Club (MLJC), a non-profit organization which aims to build a bridge between students and researchers in Machine & Deep Learning related fields. 
 
 - I rock a great mustache
 - I'm extremely loyal to my family
 
 What else do you need?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
