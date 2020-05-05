@@ -4,10 +4,7 @@ title: About me
 subtitle: 
 ---
 
-My name is Simone Azeglio. I am a physicist by training, currently pursuing a M.Sc. in Physics of Complex Systems at the University of Turin and I am a Visiting Research Student at the University of Ottawa. My interesests lies in understanding the **Learning Process**,  I am also the President and the Founder of the Machine Learning Journal Club (MLJC), a non-profit organization which aims to build a bridge between students and researchers in Machine & Deep Learning related fields. 
+img style="float: right;" src="assets/img/Me.jpg"> 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is *Simone Azeglio*. I am a physicist by training, currently pursuing a M.Sc. in Physics of Complex Systems at the *University of Turin* (Italy) and I am also a Visiting Research Student - working on Neuroscience - at the *University of Ottawa* (Canada). My main interesest lies in understanding the **Learning Process** both biological and artificial. That's why I've decided to found the *Machine Learning Journal Club (**MLJC**)*, a non-profit organization which aims to fill the gap between students and researchers in Machine & Deep Learning related fields. 
 
