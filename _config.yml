@@ -6,15 +6,15 @@ title: SAZIO's Blog
 # Short description of your site
 description: Neuronic Perambulations
 # Your name to show in the footer
-author: Simone AZeglIO
+author: Simone Azeglio
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -37,11 +37,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "simone.azeglio@gmail.com"
+  email: "simone.azeglio@edu.unito.it"
   github: sazio
   twitter: simoneazeglio
   linkedin: simone-azeglio-1b3359106
-  rss: true
+#  rss: true
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -163,7 +163,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Rome"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
