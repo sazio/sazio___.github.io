@@ -10,3 +10,6 @@ My name is *Simone Azeglio*. I am a physicist by training, currently pursuing a 
 
 ### Why SAZIO? 
 Well, mainly because it's a way to encode my name and surname, **S**imone **AZ**egl**IO**, but there's something more: *"sazio"* means *"full"* in Italian, in the sense that you satisfied your hunger. The ladder is the motivation behind this whole blog: explaining stuff and creating contents in order to fulfill the hunger for knowledge - in scientific terms - that wanders on top of us all. 
+
+### Curious about my experiences? 
+Take a look at my [Curriculum Vitae](https://github.com/sazio/sazio.github.io/blob/master/assets/img/CV_Azeglio.pdf).
