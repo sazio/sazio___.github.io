@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <span style="font-size:10em;">About me</span>
+title: <span style="font-size:4em;">About me</span>
 subtitle: 
 ---
 
