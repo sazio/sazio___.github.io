@@ -1,5 +1,5 @@
 ---
-image: /img/Post1.jpg
+image: sazio.github.io/_posts/img/Post1.jpg
 comments: true
 ---
 
