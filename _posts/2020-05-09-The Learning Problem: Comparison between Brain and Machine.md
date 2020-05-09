@@ -1,9 +1,6 @@
 ---
-subtitle: Chapter 1: The Neuron & the Perceptron
 comments: true
 ---
-
-# The Learning Problem: Comparison between Brain and Machine
 
 ### Chapter 1: The Neuron & the Perceptron
 
