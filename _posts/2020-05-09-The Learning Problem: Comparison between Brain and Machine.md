@@ -1,7 +1,7 @@
 ---
 readtime: true
-image: _posts/img/Post1.jpg
 comments: true
+show-avatar: false
 ---
 
 ### Chapter 1: The Neuron and the Perceptron
