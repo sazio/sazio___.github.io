@@ -2,7 +2,7 @@
 layout: post
 title: The Learning Problem: Comparison between Brain and Machine
 subtitle: Chapter 1: The Neuron & the Perceptron
-tags: [Neuroscience] [Perceptron] [Machine Learning]
+tags: [Neuroscience, Perceptron, Machine Learning]
 comments: true
 ---
 # The Learning Problem: Comparison between Brain and Machine
