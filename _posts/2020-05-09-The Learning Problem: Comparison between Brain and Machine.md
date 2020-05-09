@@ -2,7 +2,7 @@
 comments: true
 ---
 
-### Chapter 1: The Neuron & the Perceptron
+### Chapter 1: The Neuron &amp the Perceptron
 
 ![source on the left: [https://www.extremetech.com/wp-content/uploads/2016/01/connectome.jpg](https://www.extremetech.com/wp-content/uploads/2016/01/connectome.jpg) ; on the right: [https://clusterdata.nl/wp-content/uploads/2018/01/maxresdefault-1.jpg](https://clusterdata.nl/wp-content/uploads/2018/01/maxresdefault-1.jpg)— modified by me](https://cdn-images-1.medium.com/max/2560/1*7rjzz-2nBK7vhOwF8qSkCw.jpeg)*source on the left: [https://www.extremetech.com/wp-content/uploads/2016/01/connectome.jpg](https://www.extremetech.com/wp-content/uploads/2016/01/connectome.jpg) ; on the right: [https://clusterdata.nl/wp-content/uploads/2018/01/maxresdefault-1.jpg](https://clusterdata.nl/wp-content/uploads/2018/01/maxresdefault-1.jpg)— modified by me*
 
