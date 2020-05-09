@@ -39,7 +39,7 @@ Following the event of the emission of a spike, the neuron needs time to recover
 
 The previous description indicates that the only way neurons can communicate the outcome of their computations to other neurons is trough the emission of neurotransmitters. For the sake of mathematical modeling we shall make a strong assumption, namely that: **sub-treshold potentials do not lead to the release of neurotransmitters**. In other words, neurotransmitters are released by spikes only.
 
-Now that we have a basic introduction of neurons functionalities we can take a look at a mathematical model, i.e. the* Leaky Integrate-and-Fire* (**LIF**) neuron. For the ones of you who are interested in the “heavy” math behind this model, I’m going to briefly introduce it.
+Now that we have a basic introduction of neurons functionalities we can take a look at a mathematical model, i.e. the *Leaky Integrate-and-Fire* (**LIF**) neuron. For the ones of you who are interested in the “heavy” math behind this model, I’m going to briefly introduce it.
 
 ### Leaky Integrate-and-Fire model, a mathematical perspective [2]
 
@@ -47,7 +47,7 @@ The canonical way in order to deal with neuronal models is the *circuit analogy*
 
 We’ve been previously talking about the summation (sometimes referred as *integration*) process that happens in the soma, which is, combined with the mechanism that triggers action potentials above some critical threshold, the very core of neuronal dynamics.
 
-Let’s now dive into math so that to build a phenomenological model of neuronal dynamics. We describe the critical voltage as a formal *threshold* 𝜽. If the* voltage* 𝑢(𝑡) (the sum of all inputs) reaches 𝜽 from below, we say that the neuron fires a spike. In this model we have two different components that are both necessary to define the dynamics: first, an equation that describes the evolution of the potential 𝑢(𝑡); and second, a mechanism to generate spikes.
+Let’s now dive into math so that to build a phenomenological model of neuronal dynamics. We describe the critical voltage as a formal *threshold* 𝜽. If the *voltage* 𝑢(𝑡) (the sum of all inputs) reaches 𝜽 from below, we say that the neuron fires a spike. In this model we have two different components that are both necessary to define the dynamics: first, an equation that describes the evolution of the potential 𝑢(𝑡); and second, a mechanism to generate spikes.
 
 The following is the simplest model in the class of integrate-and-fire models is made up of two ingredients: a linear differential equation to describe the evolution of 𝑢(𝑡) and a threshold for spike firing.
 
@@ -55,7 +55,7 @@ The variable 𝑢(𝑡) describes the instant value of the potential of our neur
 
 In order to arrive at an equation that links the momentary voltage 𝑢(𝑡) — 𝑣 to the input current 𝐼(𝑡), we use elementary laws from the theory of electricity. If a current pulse 𝐼(𝑡) is injected into the neuron, the additional electrical charge will charge the cell membrane. The cell membrane will therefore act as a *capacitor* of *capacity* 𝐶. The charge will slowly leak through the cell membrane since this ladder is not a perfect insulator. We can take this into account by adding a finite leak *resistance* 𝑅 to our model.
 
-The basic electrical circuit representing a leaky integrate-and-fire model consists of a capacitor 𝐶 *in parallel *with a resistor 𝑅 driven by a current 𝐼(𝑡); see Figure 2
+The basic electrical circuit representing a leaky integrate-and-fire model consists of a capacitor 𝐶 *in parallel* with a resistor 𝑅 driven by a current 𝐼(𝑡); see Figure 2
 
 ![Figure2 — source : [https://neuronaldynamics.epfl.ch/online/Ch1.S3.html](https://neuronaldynamics.epfl.ch/online/Ch1.S3.html) . On the left: a neuron, which is enclosed by the cell membrane (big circle), receives a (positive) input current 𝐼(𝑡) which increases the electrical charge inside the cell. The corresponding circuit is depicted at the bottom. On the right: the cell membrane reaction to a step current (top) with a smooth voltage signal (bottom)](https://cdn-images-1.medium.com/max/2000/1*JvFPiUaBjkaNgPbIbuoMFw.png)*Figure2 — source : [https://neuronaldynamics.epfl.ch/online/Ch1.S3.html](https://neuronaldynamics.epfl.ch/online/Ch1.S3.html) . On the left: a neuron, which is enclosed by the cell membrane (big circle), receives a (positive) input current 𝐼(𝑡) which increases the electrical charge inside the cell. The corresponding circuit is depicted at the bottom. On the right: the cell membrane reaction to a step current (top) with a smooth voltage signal (bottom)*
 
