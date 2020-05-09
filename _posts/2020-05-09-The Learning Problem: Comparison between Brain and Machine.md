@@ -1,5 +1,6 @@
 ---
-image: sazio.github.io/_posts/img/Post1.jpg
+readtime: true
+image: _posts/img/Post1.jpg
 comments: true
 ---
 
