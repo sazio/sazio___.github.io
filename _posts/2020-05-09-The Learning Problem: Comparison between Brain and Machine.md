@@ -1,6 +1,4 @@
 ---
-subtitle: Chapter 1: The Neuron & the Perceptron
-tags: [Neuroscience, Perceptron, Machine Learning]
 comments: true
 ---
 
