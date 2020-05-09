@@ -1,4 +1,5 @@
 ---
+layout: "post"
 readtime: true
 comments: true
 show-avatar: false
