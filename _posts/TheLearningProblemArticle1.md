@@ -5,11 +5,6 @@ subtitle: Chapter 1: The Neuron & the Perceptron
 tags: [Neuroscience, Perceptron, Machine Learning]
 comments: true
 ---
-# The Learning Problem: Comparison between Brain and Machine
-
-### Chapter 1: The Neuron & the Perceptron
-
-![source on the left: [https://www.extremetech.com/wp-content/uploads/2016/01/connectome.jpg](https://www.extremetech.com/wp-content/uploads/2016/01/connectome.jpg) ; on the right: [https://clusterdata.nl/wp-content/uploads/2018/01/maxresdefault-1.jpg](https://clusterdata.nl/wp-content/uploads/2018/01/maxresdefault-1.jpg)— modified by me](https://cdn-images-1.medium.com/max/2560/1*7rjzz-2nBK7vhOwF8qSkCw.jpeg)*source on the left: [https://www.extremetech.com/wp-content/uploads/2016/01/connectome.jpg](https://www.extremetech.com/wp-content/uploads/2016/01/connectome.jpg) ; on the right: [https://clusterdata.nl/wp-content/uploads/2018/01/maxresdefault-1.jpg](https://clusterdata.nl/wp-content/uploads/2018/01/maxresdefault-1.jpg)— modified by me*
 
 **This is the first chapter of a series devoted to analyze and decompose the learning problem in its very bases. In doing that I would like to stress the comparison between the biological and the artificial realm. Particularly, as a Physicist, I’m interested in understanding Emergence and Self-Organization phenomena, which are topics typically related to Complex Systems (e.g. the Brain or a Deep Neural Network). The central idea will thus be: showing how well-understood solutions (e.g. a single neuron) can be applied in a bottom-up manner in order to understand complex situations. With the purpose of building a solid structure for tackling this problem we’d need two tools: Mathematical Modeling and Simulation (a.k.a. Coding). I’ll go trough all of this since the very beginning, let’s get it started!**
 > *If you can’t solve a problem, then there is an easier problem you can solve: find it*. (**George Pólya, Mathematical Discovery on Understanding, Learning, and Teaching Problem Solving)**
