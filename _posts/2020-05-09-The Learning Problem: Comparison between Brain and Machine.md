@@ -1,4 +1,8 @@
 ---
+layout: post
+title: The Learning Problem: Comparison between Brain and Machine
+subtitle: Chapter 1: The Neuron & the Perceptron
+tags: [Neuroscience, Perceptron, Machine Learning]
 comments: true
 ---
 
@@ -320,7 +324,7 @@ In particular perceptrons have an *intrinsic problem,* which is insurmountable w
 
 [1] Amit, D. (1989). *Modeling Brain Function: The World of Attractor Neural Networks*. Cambridge: Cambridge University Press.
 
-[2] Wulfram Gerstner, Werner M. Kistler, Richard Naud, and Liam Paninski. 2014. Neuronal Dynamics: From Single Neurons to Networks and Models of Cognition. Cambridge University Press, New York, NY, USA. *Online version: [*https://neuronaldynamics.epfl.ch/online/index.html*](https://neuronaldynamics.epfl.ch/online/index.html)
+[2] Wulfram Gerstner, Werner M. Kistler, Richard Naud, and Liam Paninski. 2014. Neuronal Dynamics: From Single Neurons to Networks and Models of Cognition. Cambridge University Press, New York, NY, USA. *Online version:* [*https://neuronaldynamics.epfl.ch/online/index.html](https://neuronaldynamics.epfl.ch/online/index.html)
 
 [3] Marvin L. Minsky and Seymour A. Papert. 1988. Perceptrons: Expanded Edition. MIT Press, Cambridge, MA, USA.
 
