@@ -1,4 +1,5 @@
 ---
+subtitle: Chapter 1: The Neuron & the Perceptron
 comments: true
 ---
 
