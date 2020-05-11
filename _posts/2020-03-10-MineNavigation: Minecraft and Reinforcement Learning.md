@@ -131,7 +131,6 @@ After getting the score from this string, the algorithm runs a mission for each 
 When every adjacent string is evaluated, the algorithm chooses the string with best score. It then repeats the same operations in order to &quot;climb the hill&quot;, getting ideally higher scores each time.
 
 **3.1 Diving into the World of Minecraft**
-**# 1**
 
 As previously reported, Project Malmo builds on top of Minecraft. The first thing to do is to launch Minecraft&#39;s client from terminal.
 
