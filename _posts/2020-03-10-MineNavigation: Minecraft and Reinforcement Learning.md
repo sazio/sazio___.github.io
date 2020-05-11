@@ -55,8 +55,6 @@ _Crossover:_ This operator randomly chooses a locus and exchanges the subsequenc
 
 _Mutation:_ This operator randomly flips some of the bits in a chromosome. For example, the string 00000100 might be mutated in its second position to yield 01000100. Mutation can occur at each bit position in a string with some probability, usually very small (e.g., 0.01).
 
-_(Ref:_ _An Introduction to Genetic Algorithms__– M. Mitchell)_
-
 **2.3 Hill Climbing Algorithm: another perspective**
 
 In the Hill Climbing technique we start with a sub-optimal solution of the problem which is going to be improved repeatedly until some condition is maximized.
@@ -190,5 +188,6 @@ Among these possibilities one of the most exciting could be integrating Convolut
 
 1. The Malmo Platform for Artificial Intelligence Experimentation, M.Johnson, K.Hoffman, T.Hutton, D. Bignell (IJCAI-16)
 2. Exploratory Gradient Boosting for Reinforcement Learning in Complex Domains, D. Abel, A. Agarwal, F. Diaz, A. Krishnamurthy, R. Schapire (arXiv:1603.04119 [cs.AI])
+3. An Introduction to Genetic Algorithms - M. Mitchell
 
 
