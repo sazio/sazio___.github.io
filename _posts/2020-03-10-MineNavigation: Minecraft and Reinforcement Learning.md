@@ -1,3 +1,10 @@
+---
+layout: "post"
+readtime: true
+comments: true
+show-avatar: false
+---
+
 ## Navigation tasks in a reinforcement learning framework
 If you're interested in diving into the details of this project, check out the [code](https://github.com/sazio/MineNavigation) and the [documentation](https://github.com/sazio/MineNavigation/blob/master/navigationDoc.pdf).
 
