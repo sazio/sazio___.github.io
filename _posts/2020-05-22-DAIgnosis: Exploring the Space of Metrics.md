@@ -14,7 +14,7 @@ Galilei was able to sketch an outline of a completely new framework: experiments
 
 Now we are ready to take the baton and rephrase the formulation of “asking the right question” in machine learning terms, i.e. how do we choose the best *evaluation metric* for our problem?
 
-This question is of primary importance, since metrics are the only sensory contribute that we have with respect to[ *generalization](https://wp.wwu.edu/machinelearning/2017/01/22/generalization-and-overfitting/)*. In better words, metrics will tell us if our model has learned or not, and hence: if our model is overfitting or not.
+This question is of primary importance, since metrics are the only sensory contribute that we have with respect to *[generalization](https://wp.wwu.edu/machinelearning/2017/01/22/generalization-and-overfitting/)*. In better words, metrics will tell us if our model has learned or not, and hence: if our model is overfitting or not.
 
 What we are going to do now, is a showcase of different evaluation metrics in a specific setting: medical diagnosis. By doing that we hope to shed light on the usefulness of these tools while keeping some amount of concreteness in terms of a widely known use case. But first we’re going to introduce to you the dataset that we selected for today, namely the [Chest X-ray 14 Dataset](https://www.kaggle.com/nih-chest-xrays/data).
 
