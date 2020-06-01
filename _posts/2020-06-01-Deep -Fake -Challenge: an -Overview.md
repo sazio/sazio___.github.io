@@ -5,7 +5,7 @@ comments: true
 show-avatar: false
 ---
 
-
+Here it follows a brief introduction to the Deep Fake Challenge from Kaggle. 
 # <a id='0'>Contents</a>
 
 
