@@ -557,10 +557,10 @@ sys.path
 
 # <a id="8">References</a>
 
-* Deepfake, Wikipedia, https://en.wikipedia.org/wiki/Deepfake  
-* Google DeepFake Database, Endgadget, https://www.engadget.com/2019/09/25/google-deepfake-database/  
-* A quick look at the first frame of each video,  https://www.kaggle.com/brassmonkey381/a-quick-look-at-the-first-frame-of-each-video  
-* Basic EDA Face Detection, split video, ROI, https://www.kaggle.com/marcovasquez/basic-eda-face-detection-split-video-roi  
-* Face Detection with OpenCV, https://www.kaggle.com/serkanpeldek/face-detection-with-opencv   
-* Play video and processing, https://www.kaggle.com/hamditarek/play-video-and-processing/
+* Deepfake,  [Wikipedia](https://en.wikipedia.org/wiki/Deepfake)  
+* Google DeepFake Database, [Endgadget](https://www.engadget.com/2019/09/25/google-deepfake-database/) 
+* A quick look at the first frame of each video,  [from Kaggle](https://www.kaggle.com/brassmonkey381/a-quick-look-at-the-first-frame-of-each-video)  
+* Basic EDA Face Detection, split video, ROI, [from Kaggle](https://www.kaggle.com/marcovasquez/basic-eda-face-detection-split-video-roi)  
+* Face Detection with OpenCV, [from Kaggle](https://www.kaggle.com/serkanpeldek/face-detection-with-opencv)   
+* Play video and processing, [from Kaggle](https://www.kaggle.com/hamditarek/play-video-and-processing/)
 
