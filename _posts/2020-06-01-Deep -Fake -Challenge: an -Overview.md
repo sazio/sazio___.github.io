@@ -29,7 +29,7 @@ show-avatar: false
 
 *"We are already at the point where you can't tell the difference between deepfakes and the real thing,"* **Professor Hao Li, University of Southern California**
 
-<br></br>
+
 **Facebook** [has announced](https://about.fb.com/news/2020/01/enforcing-against-manipulated-media/) it will remove videos modified by artificial intelligence, known as deepfakes, from its platform. 
 
 
