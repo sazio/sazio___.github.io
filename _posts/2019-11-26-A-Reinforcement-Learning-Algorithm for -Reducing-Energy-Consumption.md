@@ -1,5 +1,9 @@
-
-# A Reinforcement Learning Algorithm for Reducing Energy Consumption
+---
+layout: "post"
+readtime: true
+comments: true
+show-avatar: false
+---
 
 ![](https://blogs.ei.columbia.edu/wp-content/uploads/2018/06/ClimateModel-768x527.jpg)
 
